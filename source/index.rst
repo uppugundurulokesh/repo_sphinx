@@ -9,8 +9,6 @@ Welcome to test's documentation!
 .. toctree::
    :maxdepth: 2
    :numbered:
-   :caption: Contents:
-   
    
    testing.md
    
