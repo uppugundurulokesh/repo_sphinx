@@ -12,7 +12,7 @@ Welcome to test's documentation!
    :caption: Contents:
    
    
-   test.md
+   testing.md
    
 
 
